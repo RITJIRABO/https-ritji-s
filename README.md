@@ -1,2 +1,2 @@
-# https-ritji-s
-Ritji's website.
+# ritji-s
+ritji's.com.
